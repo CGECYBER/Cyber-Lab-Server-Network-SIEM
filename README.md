@@ -33,7 +33,7 @@ ip address [LAN IP] 255.255.255.0
 no shutdown
 exit
 
-access-list 1 permit 192.168.1.0 0.0.0.255
+access-list 1 permit 192.168.1.1 0.0.0.255
 interface GigabitEthernet0/0
 ip nat outside
 exit
