@@ -112,5 +112,5 @@ Beyond the foundational infrastructure, this project aims to show the potential 
 ---
 
 **Setup Document** 
-📄 [Full Server Setup and Configurations (PDF)](./Full%20Server%20Setup%20and%20Configurations.pdf)
+📄 [Server Setup (PDF)](./Server%20Setup.pdf)
 
