@@ -97,7 +97,7 @@ write memory
 
 Beyond the foundational infrastructure, this project aims to show the potential of integration with additional systems such as **Windows Server 2019** and **Ubuntu Linux** environments. Splunk Enterprise is deployed on the Ubuntu server to enable centralized log collection and analysis, offering robust capabilities for **real-time monitoring**, **threat detection**, and **incident response**. This flexible setup also supports network management, security monitoring, and **SIEM testing**, with ample room for future expansion and customization to meet evolving operational needs.
 
-## SIEM Expanded Topology|
+## SIEM Expanded Topology
 
 ![Extended Topology](Topologies/Extended%20Topology.png)
 
