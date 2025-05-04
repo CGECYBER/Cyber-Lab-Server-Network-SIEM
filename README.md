@@ -4,7 +4,7 @@
 
 ## **Foundational Topology**
 
-![Foundational Topology](Topologies/Foundationl%20Topology.png)
+![Foundational Topology](Topologies/Foundational%20Topology.png)
 
 <table>
   <thead>
